@@ -1,0 +1,7 @@
+2023-03-29T16:11:56.907+09:00  INFO 9560 --- [main] c.a.schedules.SchedulesApplication       : Starting SchedulesApplication using Java 17.0.5 with PID 9560 (C:\Users\MSI\Desktop\Java_Tutorial\Annotations\schedules\target\classes started by MSI in C:\Users\MSI\Desktop\Java_Tutorial\Annotations\schedules)
+2023-03-29T16:11:56.912+09:00  INFO 9560 --- [main] c.a.schedules.SchedulesApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-03-29T16:11:57.593+09:00  INFO 9560 --- [main] c.a.schedules.SchedulesApplication       : Started SchedulesApplication in 1.194 seconds (process running for 1.543)
+2023-03-29T16:11:58.013+09:00  INFO 9560 --- [scheduling-1] c.a.schedules.SchedulerService           : ログテスト
+2023-03-29T16:11:59.000+09:00  INFO 9560 --- [scheduling-1] c.a.schedules.SchedulerService           : ログテスト
+2023-03-29T16:12:00.013+09:00  INFO 9560 --- [scheduling-1] c.a.schedules.SchedulerService           : ログテスト
+2023-03-29T16:12:01.008+09:00  INFO 9560 --- [scheduling-1] c.a.schedules.SchedulerService           : ログテスト
