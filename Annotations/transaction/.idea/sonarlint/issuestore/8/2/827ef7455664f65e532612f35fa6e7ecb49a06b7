@@ -1,0 +1,12 @@
+
+[
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(€‹Œ–
+V
+java:S3457#"AFormat specifiers should be used instead of string concatenation.(ÇÞ’Q
+V
+java:S34573"AFormat specifiers should be used instead of string concatenation.(ÇÞ’Q
+L
+java:S2629#"7Use the built-in formatting to construct this argument.(ÇÞ’Q
+L
+java:S26293"7Use the built-in formatting to construct this argument.(ÇÞ’Q
